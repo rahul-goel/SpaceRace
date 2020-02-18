@@ -1,6 +1,9 @@
 # SpaceRace
 A silly game I made using pygame.
 
+## Game Screenshot
+<img src = "./images/screenshot.png">
+
 ## Requirements
 - Python3 with standard libraries
 - Pygame library

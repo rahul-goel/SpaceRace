@@ -7,7 +7,7 @@ pygame.init()
 
 def random_enemy(new_speed):
     enemy_list = []
-    for i in range(1, 5, 1):
+    for i in range(1, 6, 1):
         # using random function to get random direction of movement
         direction = 1 if bool(random.getrandbits(1)) else -1
         # randomly chosing within the available images
